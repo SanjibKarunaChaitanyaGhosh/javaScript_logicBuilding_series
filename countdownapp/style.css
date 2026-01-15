@@ -19,3 +19,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.buttons button{
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 10px;
+}
