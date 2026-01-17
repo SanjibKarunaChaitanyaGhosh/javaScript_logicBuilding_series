@@ -1,11 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 
 *{
     margin: 0px auto;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Bodoni Moda", serif;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 
 body{
     background-image: url("https://unsplash.com/photos/dense-apartment-buildings-towering-towards-the-sky-qcs3xGCKC6s");
